@@ -66,7 +66,7 @@ private:
     int m_timerId;
 };
 //! [5]
-
+// added comment here
 
 //! [6]
 AnalogClockWindow::AnalogClockWindow()
